@@ -1,0 +1,32 @@
+body {
+    margin: 2%;
+    background-color: #b44c43;
+    color: #0a0a0a; 
+}
+img {
+    width:fit-content;
+}
+hr {
+    border: none; height: 20px; background-color: #efb810; 
+}
+.tabla {
+    background-color: #cb6d51; border:none; font-size: 24px;
+}
+h1 {
+    font-size: 48px; 
+}
+h2{
+    font-size: 36px; 
+}
+p, ul, h4{
+    font-size: 20px; 
+}
+.row{
+    background-color: #cb6d51;
+}
+header {
+    background-color: #cb6d51;
+}
+#menu {
+    background-color: #cb6d51;
+}
